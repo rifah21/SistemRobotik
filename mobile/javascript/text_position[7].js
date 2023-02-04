@@ -1,0 +1,1 @@
+﻿positionForPages[7]={page:7,positions:[{word:"vi ",left:0.488166,top:0.907669,width:0.031206,height:0.016932},{word:"PETA KONSEP MATA PELAJARAN ",left:0.218138,top:0.146979,width:0.574229,height:0.022576},{word:"SISTEM ROBOTIK KELAS XI ",left:0.273669,top:0.183819,width:0.463168,height:0.022577}]};
