@@ -1,0 +1,1 @@
+﻿positionForPages[50]={page:50,positions:[{word:"43 ",left:0.484980,top:0.911350,width:0.037578,height:0.016932},{word:"3.) Jenis-jenis pengaktifan ",left:0.162551,top:0.573696,width:0.273066,height:0.018129}]};

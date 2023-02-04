@@ -1,0 +1,1 @@
+﻿positionForPages[53]={page:53,positions:[{word:"46 ",left:0.484980,top:0.907669,width:0.038033,height:0.016932},{word:"5.) Macam-macam Aktuator Gerakan Putar ",left:0.162551,top:0.110368,width:0.442957,height:0.018129},{word:"6.) Pengadaan Udara Bertekanan ",left:0.162551,top:0.490844,width:0.343207,height:0.018128}]};

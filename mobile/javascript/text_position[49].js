@@ -1,0 +1,1 @@
+﻿positionForPages[49]={page:49,positions:[{word:"42 ",left:0.484524,top:0.907669,width:0.038489,height:0.016932},{word:"2.) Katup-Katup Lainnya",left:0.162551,top:0.477347,width:0.253243,height:0.018128}]};

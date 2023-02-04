@@ -1,0 +1,1 @@
+﻿positionForPages[52]={page:52,positions:[{word:"45 ",left:0.484980,top:0.911350,width:0.037578,height:0.016932},{word:"4.) Macam-macam Aktuator Linier",left:0.304165,top:0.304617,width:0.349886,height:0.018128}]};

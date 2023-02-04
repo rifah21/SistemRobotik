@@ -1,0 +1,1 @@
+﻿positionForPages[80]={page:80,positions:[{word:"73 ",left:0.484980,top:0.911350,width:0.038033,height:0.016932},{word:"EVALUASI",left:0.413928,top:0.110460,width:0.172745,height:0.022577}]};
