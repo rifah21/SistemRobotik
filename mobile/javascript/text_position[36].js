@@ -1,0 +1,1 @@
+﻿positionForPages[36]={page:36,positions:[{word:"29 ",left:0.484524,top:0.939225,width:0.038944,height:0.016933},{word:"D. Penghasilan Dan Pengagihan Udara ",left:0.163917,top:0.299702,width:0.468869,height:0.021755}]};

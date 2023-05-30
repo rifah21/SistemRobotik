@@ -1,0 +1,1 @@
+﻿positionForPages[7]={page:7,positions:[{word:"vi ",left:0.488166,top:0.940759,width:0.031206,height:0.016933}]};

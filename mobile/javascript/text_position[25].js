@@ -1,0 +1,1 @@
+﻿positionForPages[25]={page:25,positions:[{word:"18 ",left:0.487711,top:0.939225,width:0.032571,height:0.016933},{word:"Gambar 1.4 Jenis aliran ",left:0.381156,top:0.570090,width:0.243946,height:0.018677},{word:"J. Hukum Gas ",left:0.162551,top:0.611175,width:0.169711,height:0.021754}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[46]={page:46,positions:[{word:"39 ",left:0.484980,top:0.939225,width:0.038033,height:0.016933},{word:"A. Pendahuluan ",left:0.162551,top:0.110408,width:0.197021,height:0.021755},{word:"B. Simbol-Simbol Pneumatik ",left:0.163917,top:0.714887,width:0.350002,height:0.021754}]};

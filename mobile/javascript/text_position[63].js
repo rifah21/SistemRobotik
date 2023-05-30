@@ -1,0 +1,1 @@
+﻿positionForPages[63]={page:63,positions:[{word:"56 ",left:0.484980,top:0.939225,width:0.038033,height:0.016933},{word:"E. Katup logika, Katup kombinasi  ",left:0.163917,top:0.262586,width:0.409174,height:0.021754}]};

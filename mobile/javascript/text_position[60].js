@@ -1,0 +1,1 @@
+﻿positionForPages[60]={page:60,positions:[{word:"53 ",left:0.484980,top:0.939225,width:0.037578,height:0.016933},{word:"D. Katup Satu Arah ",left:0.174386,top:0.464196,width:0.237985,height:0.021755}]};

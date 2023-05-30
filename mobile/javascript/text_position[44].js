@@ -1,0 +1,1 @@
+﻿positionForPages[44]={page:44,positions:[{word:"37 ",left:0.484980,top:0.939225,width:0.038033,height:0.016933},{word:"Klik TULISAN ini untuk mulai mengerjakan EVALUASI",left:0.179893,top:0.588782,width:0.654511,height:0.021755}]};

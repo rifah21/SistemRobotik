@@ -1,0 +1,1 @@
+﻿positionForPages[65]={page:65,positions:[{word:"58 ",left:0.484980,top:0.939225,width:0.038033,height:0.016933},{word:"F. Aktuator (Linier, Putar, Rodless) ",left:0.163917,top:0.486282,width:0.422373,height:0.021755},{word:"•",left:0.294606,top:0.780521,width:0.010469,height:0.018727},{word:"•",left:0.294606,top:0.809049,width:0.010469,height:0.018727}]};

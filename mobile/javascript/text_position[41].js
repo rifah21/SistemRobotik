@@ -1,0 +1,1 @@
+﻿positionForPages[41]={page:41,positions:[{word:"34 ",left:0.484980,top:0.939225,width:0.037578,height:0.016933},{word:". ",left:0.716705,top:0.147485,width:0.008966,height:0.018128},{word:"5). Katup Gabungan ",left:0.215407,top:0.185245,width:0.204165,height:0.018129},{word:"(Combination Valve)",left:0.418366,top:0.185245,width:0.209172,height:0.018129}]};

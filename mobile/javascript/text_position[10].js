@@ -1,0 +1,1 @@
+﻿positionForPages[10]={page:10,positions:[{word:"3 ",left:0.492717,top:0.939225,width:0.022558,height:0.016933},{word:"B. Pengertian ",left:0.162551,top:0.110408,width:0.169188,height:0.021755}]};

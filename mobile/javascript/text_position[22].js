@@ -1,0 +1,1 @@
+﻿positionForPages[22]={page:22,positions:[{word:"15 ",left:0.488166,top:0.939225,width:0.031661,height:0.016933},{word:"T = F x d ",left:0.483159,top:0.110368,width:0.086777,height:0.018129},{word:"H. Hukum Pascal ",left:0.162551,top:0.526773,width:0.210653,height:0.021755}]};
