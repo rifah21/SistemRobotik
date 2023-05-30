@@ -1,0 +1,3776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="112"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[]]></page><page Index="3"><![CDATA[Alhamdulillah Puji syukur kepada Allah SWT sebab berkat
+               Rahmat dan Hidayah-Nyalah Buku Ajar Digital Sistem Robotik
+
+               untuk  Siswa  Kelas  XI  dapat  terselesaikan.  Semoga  dapat
+               bermanfaat  dan  digunakan  sebagai  bahan  ajar  buku  digital
+
+               untuk siswa Sekolah Menengah Kejuruan (SMK) terutama di
+               SMK SMTI Makassar.
+
+
+                    Buku Digital Sistem Robotik disusun agar siswa kelas XI
+               ini  dapat  melakukan  proses  pencarian  pengetahuan  terkait
+
+               materi pelajaran melalui berbagai aktivitas proses sains yang
+               dengan demikian peserta didik diarahkan untuk menemukan
+
+               sendiri berbagai fakta dan membangun konsep serta nilai baru
+               secara mandiri.
+
+
+                   Diketahui  bahwa  dalam  buku  masih  tedapat  banyak
+               kekurangan olehnya saran dan kritik sangat dibutuhkan untuk
+               perbaikan kedepannya.
+
+
+
+
+                                             Makassar, 1 Januari 2023
+
+
+
+
+                                                              Penulis
+
+
+
+
+
+
+
+
+
+
+
+                                            ii]]></page><page Index="4"><![CDATA[KATA PENGANTAR                                     ii
+               DAFTAR ISI                                         iii
+
+               PETA KONSEP                                        vi
+
+
+
+
+                    A. Pendahuluan                                1
+                    B.  Pengertian                                3
+
+                    C. Sistem Satuan                              5
+                    D. Massa Dan gaya                             8
+
+                    E.  Tekanan                                   9
+                    F.  Kerja, Energi Daya                        12
+
+                    G. Torsi                                      14
+                    H. Hukum Pascal                               15
+
+                    I.  Aliran Fluida                             17
+                    J.  Hukum Gas                                 18
+
+                    K. Karakteristik Udara                        22
+                    Rangkuman                                     23
+
+                    Evaluasi                                      24
+
+
+
+
+                    A. Pendahuluan                                25
+                    B.  Kelebihan Dan Kelemahan                   27
+
+                    C. Struktur Dan Aliran Isyarat System         27
+                       Pneumatik
+
+
+
+
+
+
+                                            iii]]></page><page Index="5"><![CDATA[D. Penghasilan Dan Pengagihan Udara           29
+
+                    E.  Unit Khidmat Udara (Air Service Unit)     30
+                    F.  KATUP                                     30
+                    Rangkuman                                     36
+
+                    Evaluasi                                      37
+
+
+
+
+                     A. Pendahuluan                               39
+                    B.  Simbol-Simbol Pneumatik                   39
+
+                    C. Katup Kontrol Arah                         49
+
+                    D. Katup Satu Arah                            53
+                    E.  Katup logika, Katup kombinasi             56
+                    F.  Aktuator (Linier, Putar, Rodless)         58
+
+                    Rangkuman                                     65
+                    Evaluasi                                      66
+
+
+
+
+
+                    A. Pendahuluan                                67
+                    B.  Penggambaran dan Penomoran                69
+
+                    Rangkuman                                     74
+                    Evaluasi                                      75
+
+
+
+
+                    A. Pendahuluan                                76
+
+                    B.  Susunan Rangkaian Elektropneumatik        79
+                    C. Sumber energi lisrik                       80
+
+
+
+
+
+                                            iv]]></page><page Index="6"><![CDATA[D. Sakelar                                    82
+
+                    E.  Instalasi Rangkaian elektro-pneumatik     83
+                    Rangkuman                                     85
+                    Evaluasi                                      86
+
+
+
+
+
+                    A. Pendahuluan                                87
+                    B.  Sistem otomasi                            90
+                    C. Arsitektur Sistem                          95
+
+                    D. Industi Pemakai                            97
+
+                    E.  Sistem Kontrol Otomasi Industri           98
+                    Rangkuman                                     99
+                    Evaluasi                                      100
+
+                 DAFTAR PUSTAKA                                   101
+                 PROFIL PENULIS                                   102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            v]]></page><page Index="7"><![CDATA[vi]]></page><page Index="8"><![CDATA[Indikator Pencapaian:
+
+
+                   1.  Diharapkan dapat memahami fisika dasar  berkaitan dengan
+
+                       udara bertekanan.
+
+                   2.  Diharapkan  dapat  menggunakan  satuan  yang  tepat  dalam
+
+                       mengukur besaran dasar dan turunan.
+
+                   3.  Diharapkan  dapat  menggunakan  hukum  pascal  dan  boyle
+
+                       dalam memahami karakteristik udara bertekanan
+
+               A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             1]]></page><page Index="9"><![CDATA[2]]></page><page Index="10"><![CDATA[B. Pengertian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            3]]></page><page Index="11"><![CDATA[4]]></page><page Index="12"><![CDATA[C. Sistem Satuan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Besaran            Simbol             Satuan
+
+                      Panjang               L             Meter ( m )
+                       Massa                M           Kilogram ( kg )
+                      Waktu                 T              Detik  ( s )
+                                                                     o
+                    Tempratur               T          Kelvin (  K ) 0 C =
+                                                                o
+                                                             273 K
+                    Arus Listrik            I             Amper ( A )
+                 Intensitas Cahaya                       Candela ( cd )
+
+
+
+
+
+
+
+
+
+
+                                            5]]></page><page Index="13"><![CDATA[Besaran         Simbol              Satuan
+
+                       Gaya             F          Newton ( N ), 1N =
+                                                        1kg.m/s 2
+
+                                                                    2
+                       Luas             A          Meter Persegi ( m  )
+                                                                    3
+                     Volume             V          Meter Kubik ( m  )
+                                                            3
+                  Volume Aliran         Q                ( m /s )
+                     Tekanan            P         Pascal ( Pa ), 1 Pa = 1
+                                                                   5
+                                                       2
+                                                   N/m , 1 bar = 10  Pa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            6]]></page><page Index="14"><![CDATA[Massa
+
+              1 kg = 2.2046 pound (lb) = 1000 g
+
+              1 lb = 0,4536 kg
+              1 ton (British) = 2240 lb = 1016 kg = 1,12 ton (US)
+
+              1 tonne = 1000 kg = 2204,6 lb = 0,9842 ton (British)
+
+              1 ton (US) = 0,8929 ton (British)
+
+
+                                         Panjang
+
+              1 meter = 3,281 foot (ft) = 1000 mm = 100 cm
+              1 inch = 25,4 mm = 2,54 cm
+
+              1 yard = 0,9144 m
+
+
+                                         Volume
+
+              1 litre = 0,2200 gallon (British) = 0,2642 gallon (US)
+
+              1 gallon (British) = 4.,546 litre = 1,2011 gallon (US) = 0,161 ft3
+              1 gallon (US) = 3,785 litre = 0,8326 gallon (British)
+
+                                                                 3
+                              3
+              1 meter kubik (m  ) = 220 gallon (British) = 35,315 ft
+                              3
+              1 inch kubik (inc  ) = 16,387 cm
+
+
+
+
+
+
+
+
+
+
+                                            7]]></page><page Index="15"><![CDATA[D. Massa Dan gaya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           F = m.a (1-1) dengan : F = gaya dalam lbs f atau kgf,
+
+                         m = massa dalam lbs atau kg, a = percepatan / gravitasi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            8]]></page><page Index="16"><![CDATA[1 kgf = 10 N untuk aplikasi praktek.
+
+                 1 newton (N) = 0,2248 pound force (lb f) = 0,1019
+
+
+                 kilogram force (kg f)
+
+                 1 lb f = 4,448 N = 0,4534 kg f
+
+                 1 kg f = 9,81 N = 2,205 lb
+
+
+                 Besaran lainnya :
+
+
+                 dyne (unit cgs) :            1 N = 105 dyne
+
+                 ponds (gram force) :     1 N = 102 ponds
+
+                                                   -2
+                 Unit SI adalah newton :   N = kg ms
+
+
+
+
+
+               E. Tekanan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            9]]></page><page Index="17"><![CDATA[
+                                           =
+                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            10]]></page><page Index="18"><![CDATA[11]]></page><page Index="19"><![CDATA[1 bar = 100 kPa = 14,5 psi = 750 mmHg = 401,8 inch W G
+
+
+                                     -2
+                          = 1,0197 kgf cm  = 0,9872 atmosphere (atm)
+                                                                         -3
+               1 kilopascal = 1000 Pa = 0,01 bar = 0,145 psi = 1,0197 x 10
+
+                      -2
+                                                        -3
+               kgf cm  = 4,018 inches W G = 9,872 x 10  atmosphere
+                                                                        -2
+               1 pound per square inch (psi) = 6.895 kPa = 0,0703 kgf cm
+
+               = 27,7 inches W G
+
+                                                     -2
+               1 kilogram force per square cm (kgf cm ) = 98,07 kPa
+
+               = 14.223 psi
+
+                                                         -2
+               1 atm = 1,013 bar = 14,7 psi = 1,033 kgf cm
+
+
+
+
+               F. Kerja, Energi Daya
+
+
+
+
+
+
+
+
+
+
+                                      Kerja = gaya x jarak
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            12]]></page><page Index="20"><![CDATA[-7
+                                        -4
+                 1 joule (J) = 2,788 x 10   Wh (2,788 x 10  kWh)
+                                   = 0,7376 ft lbf
+
+                                   = 0,2388 calories
+
+
+                                        -4
+                                   = 9,487 x 10  British thermal units (BTu)
+                                   = 0,102 kgf m
+
+                                7
+                                   = 10  ergs (cgs unit)
+
+
+
+
+                 Satuan kerja dalam SI adalah joule (J)
+
+                 1J = 1Nm
+
+                      2
+                 = 1 m  kg s -2
+
+
+
+
+
+
+
+
+
+                                    Daya = kerja/waktu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            13]]></page><page Index="21"><![CDATA[Sistem  British  menggunakan  daya  kuda  (HP) yang  digunakan
+
+               untuk  mendefinisikan  daya  motor.  Satu  daya  kuda  didefinisikan
+
+               sebagai 550 ft lb fs-1 . Tabel 1.6 adalah perbadingan satuan daya.
+
+               Satuan daya dalam SI adalah watt (W).
+
+
+                 1 kilowatt (kW) = 1,34 HP = 1,36 metric HP = 102 kgf m s -
+
+
+                 1  = 1000 W
+
+
+
+                                                           -1
+                 1 daya kuda (HP) = 0,7457 kW = 550 Ft lb s  = 2545 BTU
+
+                 h
+                  -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               G. Torsi (Gaya Putar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            14]]></page><page Index="22"><![CDATA[T = F x d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               H. Hukum Pascal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            15]]></page><page Index="23"><![CDATA[
+                                           =
+                                              
+
+
+
+
+                                         F = P x A
+
+
+
+
+                                                
+                                          =  
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          2
+                                                = 2000 x   = 8 
+                                                         500
+
+
+
+
+
+
+
+
+
+                                            16]]></page><page Index="24"><![CDATA[I. Aliran Fluida
+
+
+
+
+
+
+
+
+
+
+
+                     •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     •
+
+
+
+
+                     •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            17]]></page><page Index="25"><![CDATA[Gambar 1.4 Jenis aliran
+
+
+               J. Hukum Gas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            18]]></page><page Index="26"><![CDATA[p1.V1 = p2 . V2 = p3 . V3 = konstan ( 1-10 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            19]]></page><page Index="27"><![CDATA[20]]></page><page Index="28"><![CDATA[    
+                                            =
+                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     P 1  .   1  P 2  .  V 2
+                                      T 1     T 2
+
+
+
+
+
+
+
+
+
+
+
+                              .
+
+
+
+
+
+
+
+                                            21]]></page><page Index="29"><![CDATA[K. Karakteristik Udara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+                   •
+
+                   •
+
+                   •
+
+                   •
+
+
+
+
+                   •
+
+
+                   •
+
+                   •
+
+
+
+                                            22]]></page><page Index="30"><![CDATA[1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            23]]></page><page Index="31"><![CDATA[Klik TULISAN ini untuk mulai mengerjakan EVALUASI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            24]]></page><page Index="32"><![CDATA[Indikator Pencapaian:
+
+                  1.   Menerangkan  simbol-simbol  asas  untuk  komponen
+
+                       pneumatik dalam sistem kontrol.
+
+                  2.   Mengenalpasti jenis-jenis katup yang digunakan.
+
+                  3.   Menerangkan  komponen  utama  dalam  sistem  kontrol
+
+                       pneumatik
+
+                  4.   Menerangkan  litar  kontrol  pneumatik  dan  elektro-
+
+                       pneumatik termasuk penggunaannya.
+
+               A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+                   •
+
+
+                   •
+                   •
+
+
+
+
+                                            25]]></page><page Index="33"><![CDATA[26]]></page><page Index="34"><![CDATA[B. Kelebihan dan Kelemahan
+
+
+
+
+
+
+
+
+
+
+
+                                                              .
+
+
+                                     -
+                                     -
+
+
+                                     -
+
+                                     -
+                                     -
+
+                                    -
+
+                                    -
+                                    -
+
+
+               C. Struktur Dan Aliran Sinyal Sistem Pneumatik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+                                            27]]></page><page Index="35"><![CDATA[•
+
+                   •
+
+                   •
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            28]]></page><page Index="36"><![CDATA[D. Penghasilan Dan Pengagihan Udara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            29]]></page><page Index="37"><![CDATA[E. Satuan Pelayanan Udara
+
+
+
+
+
+                   •
+
+                   •
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               F. KATUP
+
+
+
+
+
+
+
+
+
+
+
+
+                       o
+
+                       o
+
+                       o
+
+
+
+
+
+
+
+
+
+
+                                            30]]></page><page Index="38"><![CDATA[1). Katup Kontrol Berarah (Directional Control Valves)
+
+
+
+
+
+
+
+
+
+
+                       •
+
+
+
+
+                       •
+
+
+
+
+
+                       •
+
+
+
+
+
+
+
+                       •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            31]]></page><page Index="39"><![CDATA[2). Katup tak balik (Non-return valve)
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   3). Katup Kontrol Aliran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            32]]></page><page Index="40"><![CDATA[4). Katup Kontrol Tekanan (Pressure Control Valve)
+
+
+
+
+
+
+
+
+
+
+
+                     •
+
+                     •
+
+                     •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            33]]></page><page Index="41"><![CDATA[.
+
+                    5). Katup Gabungan (Combination Valve)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            34]]></page><page Index="42"><![CDATA[6). Elemen Pemprosesan (Processing Element)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Lambang                    Nama
+
+
+                                               Katup dua masukan
+
+                                             tekanan (Dual pressure
+
+
+                                                valve/ AND valve)
+
+                                             Katup shuttle (OR valve)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            35]]></page><page Index="43"><![CDATA[1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            36]]></page><page Index="44"><![CDATA[Klik TULISAN ini untuk mulai mengerjakan EVALUASI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            37]]></page><page Index="45"><![CDATA[Indikator Pencapaian:
+
+
+                  1.   Menjelaskan macam-macam komponen pneumatik dan cara
+
+                       kerjanya  yang  digunakan  untuk  mengoperasikan  suatu
+
+                       mesin,
+
+                  2.   Menunjukkan   komponen-komponen     pada   rangkaian
+
+                       pneumatik dengan melihat simbolnya,
+
+                  3.    Menyebutkan  macam-macam  aktuator  linier  dan  cara
+
+                       kerjanya,
+
+                  4.   Menyebutkan  macam-macam  aktuator  putar  dan  cara
+
+                       kerjanya,
+
+                  5.   Memahami prinsip kerja dari  katup kontrol arah
+
+                  6.   Memahami prinsip kerja dari katup satu arah
+
+                  7.        Memahami prinsip kerja dari   katup kontrol aliran.
+
+                  8.        Memahami  fungsi  katup  tekanan  dan  fungsi  katup  tunda
+
+                       waktu.
+
+
+
+
+
+
+
+
+
+
+
+
+                                            38]]></page><page Index="46"><![CDATA[A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               B. Simbol-Simbol Pneumatik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            39]]></page><page Index="47"><![CDATA[Nama              Keterangan                Simbol
+                 Komponen
+                  Katup 2/2  •  Mempunyai  2  lubang
+                                  (masukan           dan
+                                  keluaran) dan 2 posisi
+                                  hubungan katup
+                               •  Lubang        keluaran
+                                  tertutup.  Pada  posisi
+                                  normal  tertutup,  tidak
+                                  ada aliran yang keluar
+                                  (konfiguransi NC)
+                               •  Pada  posisi  normal
+                                  terbuka,  ada  aliran
+                                  keluar  (konfiguransi
+                                  NO)
+
+                  Katup 3/2  •  Mempunyai  3  lubang
+                                  (masukan,    keluaran,
+                                  dan pembuangan) dan
+                                  2  posisi  hubungan
+                                  katup
+                               •  Pada  posisi  normal,
+                                  tidak ada aliran udatra
+                                  yang            keluar
+                                  (konfiguransi NC)
+                               •  Pada  posisi  normal,
+                                  ada aliaran udara yang
+                                  keluar     (konfigurasi
+                                  NO)
+                  Katup 4/2  •  Mempunyai  4  lubang
+                                  (masukan,    keluaran,
+                                  dan  1  pembuangan)
+
+
+
+
+
+                                            40]]></page><page Index="48"><![CDATA[dan 2 posisi hubungan
+                                  katup
+
+                  Katup 5/2  •  Mempunyai  5  lubang
+                                  (masukan,    keluaran,
+                                  dan  2  pembuangan)
+                                  dan 2 posisi hubungan
+                                  katup
+
+                 Katup cek  •  Tanpa pegas
+
+                               Lubang  keluaran  terbuka
+                               jika  tekanan  masukan
+                               lebih    besar   daripada
+                               tekanan keluargan
+                              •  Dengan pegas
+
+                              Terbuka     jika   tekanan
+                              masukan      lebih   besar
+                              daripada  tekanan  udara
+                              masuk  (termasuk  gaya
+                              pegas)
+                    Katup     •  Lubang  keluaran  akan
+                    fungsi        bertekanan,  bila  salah
+                  “ATAU”          satu atau kedua lubang
+                   (shuttle       masukan bertekanan
+                    valve)
+
+
+
+
+
+
+                    Nama              Keterangan                Simbol
+                 Komponen
+
+                  Katup 3/3  •  Mempunyai  3  lubang
+                                  (masukan,     keluaran
+                                  dan  pembuangan) dan
+
+
+
+
+
+                                            41]]></page><page Index="49"><![CDATA[3  posisi  hubungan
+                                  katup
+                               •  Pada  posisi  normal
+                                  (tengah) tertutup
+
+                  Katup 4/3  •  Mempunyai  4  lubang
+                                  (masukan,    keluaran,
+                                  dan pembuangan) dan
+                                  3  posisi  hubungan
+                                  katup
+                               •  Pada  posisi  normal
+                                  (tengah)        lubang
+                                  keluaran      sambung
+                                  dengan pembuangan
+
+                  Katup 5/3  •  Mempunyai  5  lubang
+                                  (masukan,    keluaran,
+                                  dan pembuangan) dan
+                                  3  posisi  hubungan
+                                  katup
+                               •  Pada  posisi  normal
+                                  (tengah) tertutup
+
+                    Katup      Bila  lubang  masukan
+                 pembuang      disuplai    oleh    udara
+                    cepat      bertekanan,        lubang
+                               keluaran akan membuang
+                               udara secara langsung ke
+                               atmosfir
+
+                    Katup      Lubang  keluaran  hanya
+                    fungsi     akan    bertekanan    bila
+                   “DAN”       udara bertekanan disuplai
+                               ke udara lubang masukan
+
+                    Katup      Aliran    uadara   keluar
+                   kontrol     dapat    diatur   dengan
+                    aliran     memutar pengaturannya
+
+
+
+
+
+                                            42]]></page><page Index="50"><![CDATA[Katup      Katup  cek  dengan  katip
+                   kontrol     kontrol aliran.
+                 aliran satu   Katup    kontrol    aliran
+                    arah
+                               dengan  arah  aliran  satu
+                               arah dan dapat diatur
+
+
+
+
+
+                      Jenis             Keterangan               Simbol
+                  Pengaktifan
+                 Kerja manual  Umum
+
+                                  Tombol tekan
+
+
+                                  Tuas
+
+                                  Pedal kaki
+
+
+                                  Tuas (putar) dengan
+                                  pengunci (tidak riset
+                                  otomatis)
+                 Kerja            Piunjer
+                 mekanik
+                                  Pegas
+
+
+                                  Rol
+
+
+                                  Rol, idle (kerja hanya ke
+                                  satu arah)
+
+
+
+
+
+
+
+                                            43]]></page><page Index="51"><![CDATA[Kerja            Kerja langsung oleh
+                 pneumatik        tekanan kerja
+                                  Tekanan Kembali
+
+                                  Tidak langsung memalui
+                                  katup pilot
+                 Kerja listrik    Solenoid tunggal
+
+                                  Solenoid ganda
+
+                 Kombinasi        Solenoid ganda dan kerja
+                                  pilot tambahan manual
+                                  Simbol umum : Tanda ini
+                                  menunjukkan keterangan
+                                  pengaktifan katup
+                                  tersebut
+
+
+
+
+
+
+                   Nama          Keterangan                 Simbol
+                  Akuator
+                  Silinder  •  Silinder  dengan
+                   kerja        tekanan  hanya
+                  tunggal       bekerja  ke  satu
+                                arah saja.
+                             •  Langkah
+                                Kembali     oleh
+                                gaya dari luar
+                  Silinder  •  Langkah
+                   kerja        Kembali     oleh
+                  tunggal       pegas
+
+
+
+
+
+                                            44]]></page><page Index="52"><![CDATA[Standar  •  Silinder  dengan
+                   kerja        tekanan  dapat
+                   ganda        bekerja dua arah
+                                (maju       dan
+                                mundur)
+                             •  Dengan  batang
+                                piston ganda
+
+                             Dengan      batang
+                             piston
+
+                             Dengan     bantalan
+                             udara  tetap  dalam
+                             satu arah
+
+                             Dengan     bantalan
+                             udara  tetap  dalam
+                             dua arah
+
+                  Silinder   Dengan     bantalan
+                   kerja     udara  yang  dapat
+                   ganda     diatur  dalam  satu
+                  dengan     arah
+                 bantalan    Dengan     bantalan
+                   udara
+                             udara  yang  dapat
+                             diatur  dalam  dua
+                             arah
+                             Dengan     bantalan
+                             udara  yang  dapat
+                             diatur  dalam  dua
+                             arah  dan  piston
+                             dengan      magnet
+                             penyensor
+
+
+
+
+
+
+
+
+                                            45]]></page><page Index="53"><![CDATA[Nama Akuator             Keterangan              Simbol
+
+                      Motor        •  Putaran dalam satu arah,
+                   pneumatik          kapasitas tetap
+
+
+
+
+                                   •  Putaran dalam dua arah,
+                                      kapasitas tetap
+
+
+
+                                   •  Putaran dalam satu arah,
+                                      kapasistas bervariasi
+
+
+
+                                   •  Putaran dalam dua arah
+                                      kapasitas bervariasi
+
+
+                  Motor osilasi    •  Actuator  putar  lintasan
+                 (motor dengan        terbatas.  Putaran  dalam
+                    Gerakan           dua arah.
+                    terbatas)
+
+
+
+
+
+
+                     Nama           Keterangan                Simbol
+                  Komponen
+                  Kompresor  •  Kapasitas
+                                    tetap
+
+                 Tangki udara  •   Alat      untuk
+                                    menyimpan
+
+
+
+
+                                            46]]></page><page Index="54"><![CDATA[udara
+                                    bertekanan
+                                    (tandon  udara
+                                    bertekan)
+
+                     Filter     •  Alat      untuk
+                                    menyaring
+                                    kotoran  yang
+                                    terbawa  oleh
+                                    udara
+                 Pemisah air  •  Kerja manual
+
+
+
+
+
+                                •  Pembuangan
+                                    otomatis
+
+
+
+                 Filter dengan  •  Alat ini adalah
+                   pemisah          kombinasi
+                     udara          antara    filter
+                                    dan  pemisah
+                                    air manual
+
+                                •  pembuangan
+                                    otomatis
+
+
+
+                  Pengering         Alat untuk
+                     udara          mengeringkan
+                                    udara
+
+                   pelumas          Alat untuk
+                                    memasukkan
+                                    minyak
+
+
+
+
+                                            47]]></page><page Index="55"><![CDATA[pelumas ke
+                                    dalam aliran
+                                    udara untuk
+                                    melumasi
+                                    peralatan
+
+                   Pengatur         Katup untuk
+                   tekanan          mengatur
+                                    tekanan
+                                    keluaran yang
+                                    konstan
+                                    sesuai yang di
+                                    inginkan
+
+                   Alat ukur        manometer
+                   tekanan
+
+
+
+
+
+                     Unit           Unit yang
+                  pelayanan /       terdiri dari
+                 pemeliharaan       filter,
+                     udara          pengatur
+                                    tekanan, alat
+                                    ukur tekanan,
+                                    dan pelumas
+                                    Simbol
+                                    penyerhanaan
+
+                    Sumber          Simbol
+                   tekanan          standar
+
+                                    Simbol tidak
+                                    standar
+
+
+
+
+
+
+
+
+
+                                            48]]></page><page Index="56"><![CDATA[Nama Katup            Keterangan                Simbol
+
+                 Katup        •  Katup  ini  digunakan
+                 pembatas         sebagai        pembatas
+                 tekanan          tekanan  pada  tangka
+                                  udara
+                 Katup        •  Tanpa             lubang
+                 pengatur         pembuangan
+                 tekanan
+
+                              •  Dengan            lubang
+                                  pembuangan
+
+
+                 Katup        •  Dengan sumber tekanan
+                 urutan           dari luar
+
+                              •  Dengan sumber tekanan
+                                  dari saluran makan
+
+                              •  Kombinasi katup urutan
+
+
+
+
+
+
+
+               C. Katup Kontrol Arah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            49]]></page><page Index="57"><![CDATA[Kotak      menunjukkan        posisi
+                                      persakelaran katup
+
+
+                                      Jumlah  kotak  menunjukkan  jumlah
+                                      posisi persakelaran katup. Contoh :
+                                             Jumlah kotak 2 menunjukkan
+                                             hanya     2     kemungkinan
+                                             persakelaran.  Misal  :  posisi
+                                             ON dan OFF
+                                             Jumlah kotak 3 menunjukkan
+                                             3 kemungkinan persakelaran.
+                                             Missal posisi 1-0-2
+
+                                      Garis  menunjjukan  lintasan  aliran.
+                                      Panah menunjukkan arah aliran
+
+
+
+
+                                         Garis blok menunjukkan aliran
+                                                    tertutup
+
+
+                                      Garis  di  luar  kotak  menunjukkan
+                                      saluran masukan keluaran, Digambar
+
+                                      pada posisi awal
+
+
+
+
+
+
+
+
+
+
+
+                                            50]]></page><page Index="58"><![CDATA[Lubang /           DIN ISO 5599          Sistem Huruf
+                    Sambungan
+                  Lubang tekanan               1                    P
+                    (masukan)
+
+                 Lubang keluaran             2, 4                  B, A
+                      Lubang             3 (katup 3/2)         R (katup 3/2)
+                   pembuangan
+                      Lubang            5, 3 (katup 5/2)     R, S (katup 5/2)
+                   pembuangan
+
+                      Saluran
+                   pengaktifan :
+
+                 Membuka aliran         12 (katup 3/2)         Z (katup 3/2)
+                      1 ke 2
+                 Membuka aliran         12 (katup 5/2)        Y (katup 5/2)
+                      1 ke 2
+                 Membuka aliran         14 (katup 5/2)         Z (katup 5/2)
+                      1 ke 4
+
+
+
+
+
+
+
+
+
+
+                          •
+
+                          •
+
+
+
+
+                                            51]]></page><page Index="59"><![CDATA[•
+
+                          •
+
+                          •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            52]]></page><page Index="60"><![CDATA[D. Katup Satu Arah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            53]]></page><page Index="61"><![CDATA[)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            54]]></page><page Index="62"><![CDATA[55]]></page><page Index="63"><![CDATA[E. Katup logika, Katup kombinasi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            56]]></page><page Index="64"><![CDATA[.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+                   •
+
+                   •
+
+
+
+
+
+
+                                            57]]></page><page Index="65"><![CDATA[F. Aktuator (Linier, Putar, Rodless)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           •
+                           •
+
+
+
+
+
+
+
+
+                                            58]]></page><page Index="66"><![CDATA[•
+
+                           •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            59]]></page><page Index="67"><![CDATA[60]]></page><page Index="68"><![CDATA[61]]></page><page Index="69"><![CDATA[•
+
+                          •
+
+                          •
+
+
+
+
+
+
+
+                                            62]]></page><page Index="70"><![CDATA[63]]></page><page Index="71"><![CDATA[•
+
+
+
+
+
+
+
+
+
+
+                       •
+
+
+
+
+                       •
+
+
+                       •
+
+                       •
+
+
+
+
+                       •
+
+                       •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            64]]></page><page Index="72"><![CDATA[65]]></page><page Index="73"><![CDATA[Klik TULISAN ini untuk mulai menjawab EVALUASI
+
+
+
+
+
+
+
+
+                                            66]]></page><page Index="74"><![CDATA[Indikator Pencapaian:
+
+
+                  1.   Membaca  simbol-simbol  komponen  pneumatik  yang
+
+                       terdapat pada suatu rangkaian pneumatik,
+
+                  2.   Menandai  komponen-komponen  pneumatik  pada  suatu
+
+                       rangkaian pneumatik,
+
+                  3.    Menggambar  rangkaian  sistem  pneumatik  satu  silinder
+
+                       dengan menggunakan komponen- komponen pneumatik
+
+               A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            67]]></page><page Index="75"><![CDATA[•
+
+
+
+
+                   •
+
+                   •
+
+
+
+
+
+
+
+
+
+                                            68]]></page><page Index="76"><![CDATA[B. Penggambaran dan Penomoran
+
+               1.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            69]]></page><page Index="77"><![CDATA[•
+
+
+
+
+
+
+
+
+
+
+                   •
+
+                   •
+
+
+
+
+
+                   •
+
+               2.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            70]]></page><page Index="78"><![CDATA[71]]></page><page Index="79"><![CDATA[3.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            72]]></page><page Index="80"><![CDATA[73]]></page><page Index="81"><![CDATA[74]]></page><page Index="82"><![CDATA[75]]></page><page Index="83"><![CDATA[Indikator Pencapaian:
+
+
+                  1.   Memahami sistem elektropneumatik.
+
+                  2.   Mengidentifikasi elemen kontrol elektropneumatik.
+
+                  3.   Mengenal  simbol  pneumatik  dan  elektronik  pada  sistem
+
+                       elektropneumatik.
+
+                  4.   Membaca diagram kontrol elektropneumatik.
+
+
+
+                  A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            76]]></page><page Index="84"><![CDATA[•
+
+
+                   •
+
+                   •
+
+                   •
+
+
+
+
+                   •
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+                                            77]]></page><page Index="85"><![CDATA[•
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+                   •
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+                                            78]]></page><page Index="86"><![CDATA[B. Susunan Rangkaian Elektropneumatik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            79]]></page><page Index="87"><![CDATA[C. Sumber energi lisrik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            80]]></page><page Index="88"><![CDATA[•
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            81]]></page><page Index="89"><![CDATA[D. Sakelar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   •
+
+
+
+
+
+
+
+
+
+
+                                            82]]></page><page Index="90"><![CDATA[•
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            83]]></page><page Index="91"><![CDATA[84]]></page><page Index="92"><![CDATA[85]]></page><page Index="93"><![CDATA[1.  Amati rangkaian elektropneumatik, diskusikan dengan teman
+
+                   dalam kelompok mengenai
+
+
+                   a.  Bagian-bagian  dari  sistem  rangkaian  elektropneumatik
+
+                       sederhana
+
+                   b.  Komponen utama sistem elektropneumatik
+
+                   c.  Prinsip  kerja  dari  sistem  rangkaian  elektropneumatik
+
+                       sederhana
+
+               2.  Jawablah pertanyaan dibawah ini!
+
+                   a.  Jelaskan pengertian dari elektropneumatik !
+
+                   b.  Jelaskan   perbedaan     antara    pneumatik    dan
+
+                       elektropneumatik !
+
+                   c.  Jelaskan  pembagian  sakelar  berdasarkan  cara  kerjanya
+
+                       dan jenis kontaknya !
+
+                   d.  Perhatikan  gambar  berikut!  Jelaskan  cara  kerja  dari
+
+                       rangkaian pneumatik tersebut ketika solenoid valve MM1
+
+                       aktif dan tidak aktif !
+
+                   e.  Perhatikan  gambar  berikut!  Jelaskan  cara  kerja  dari
+
+                       rangkaian  elektronik  tersebut  ketika  push  button  SF1
+
+                       ditekan dan dilepas
+
+
+
+
+
+                                            86]]></page><page Index="94"><![CDATA[Indikator Pencapaian:
+
+
+                   1.  Memahami sistem otomasi industri
+
+                   2.  Memahami Arsitektur sistem otomasi elektronika
+
+                   3.  Dapat Mengelompokan industri yang menggunakan sistem
+
+                       DDC dan DCS
+
+                  A. Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            87]]></page><page Index="95"><![CDATA[88]]></page><page Index="96"><![CDATA[89]]></page><page Index="97"><![CDATA[B. Sistem otomasi
+
+
+
+
+
+
+
+
+
+
+                                            90]]></page><page Index="98"><![CDATA[91]]></page><page Index="99"><![CDATA[92]]></page><page Index="100"><![CDATA[93]]></page><page Index="101"><![CDATA[94]]></page><page Index="102"><![CDATA[95]]></page><page Index="103"><![CDATA[96]]></page><page Index="104"><![CDATA[Sistem Otomasi DCS           Sistem Otomasi DDC
+
+                 Industri Logam Dasar               Industri Obat
+
+                 Industri Konstruksi Logam          Industri Pengolahan
+                                                    Makanan
+                 Industri Minyak dan Gas            Industri Pengolahan
+                                                    Minuman
+                 Industri Kimia                     Industri Kosmetik
+                 Industri Peralatan Elektronika     Industri Pengolahan
+                                                    Kayu
+                 Industri Peralatan Listrik         Industri Taman
+                                                    Hiburan
+                 Industri Otomotif                  Gedung Bertingkat
+                 Industri Peralatan dan Mesin
+                 Produksi
+                 Industri Pipa
+                 Industri Pesawat Terbang
+
+                 Industri Kapal Laut
+
+                 Industri Telekomunikasi
+                 Industri Pengolahan Biji Plastik
+
+                 Industri Gelas dan Keramik
+
+                 Industri Plastik
+
+                 Industri Kertas
+
+
+
+
+
+
+
+                                            97]]></page><page Index="105"><![CDATA[98]]></page><page Index="106"><![CDATA[99]]></page><page Index="107"><![CDATA[Jawablah pertanyaan dibawah ini dengan baik dan benar!
+
+
+               1.  Jelaskan apa yang di maksud Human-machine interfaces (HMI)!
+
+               2.  Jelaskan pengertian dari Sistem Otomasi Industri!
+
+               3.  Bedakanlah Otomasi berdasarkan tinjauan dari Aplikasinya!
+
+               4.  Apa perbedaan dari DDC dengan DCS?
+
+               5.  Kelompokkan industri yang menggunakan sistem DDC dan DCS!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           100]]></page><page Index="108"><![CDATA[Alat, P., & Elektro, P. (2021). Nozzle : Journal Mechanical Engineering (NJME),
+                    Vol x, No x(Agustus 2021) Hal 1-5 ISSN : 2776-219X ANALISIS GERAKAN
+                    CYLINDER  SINGLE  ACTING  PADA  ALAT  PERAGA  ELEKTRO
+                    PNEUMATIK. x(x), 1–4.
+               Anditha, F. I., Kabul, T., & Ym, W. (2018). Perancangan dan Simulasi Elektro
+                    Pneumatik  Holder  Machinism  Pada  Sheet  Metal  Shearing  Machine.
+                    Profisiensi, 5(1), 51–60.
+               Ariyani,  S.  (2022).  Program  Studi  Teknik  Elektronika.  Pcr.Ac.Id,  1–7.
+                    https://pcr.ac.id/prodi/125/teknik-elektronika
+               Dewantara, A. B., & Kholil, M. (2017). Sistem Otomasi Sebagai Upaya Perbaikan
+                    Kualitas Dengan Metode Spc Pada Line Finishing (Studi Kasus: Pt. X).
+                    Jurnal    Ilmiah   Teknik    Industri,   3(3),   141–149.
+                    https://doi.org/10.24912/jitiuntar.v3i3.465
+               E L E K T R O P N E U M AT I K. (n.d.).
+
+               Hakim, L. A., & Anugraha, R. A. (2017). Perancangan Sistem Otomasi Untuk
+                    Kartu Tekstil Jacquard Pada Mesin Punching Untuk Di PT Buana Intan
+                    Gemilang.  Jurnal  Rekayasa  Sistem  &  Industri  (JRSI),  4(01),  68.
+                    https://doi.org/10.25124/jrsi.v4i01.249
+
+               M.  Iqbal  Nur  Fahmi  ,  Wahyudi,  B.  R.  (2017).  PERANCANGAN  DAN
+                    PEMBUATAN  ALAT  PELIPAT  BAJU  DENGAN  PENGONTROL
+                    SISTEM  ELEKTRO  PNEUMATIK  DAN  PLC  UNTUK  INDUSTRI
+                    KONVEKSI 1,a. J Material, 1(2), 46–55.
+               Mandala, H., Rachmat, H., Sukma, D., & Atmaja, E. (2015). Perancangan Sistem
+                    Otomatisasi Penggilingan Teh Hitam Orthodoks Menggunakan Pengendali
+                    PLC  Siemens  S7  1200  dan  Supervisory  Control  and Data Acquisition  (
+                    SCADA ) di PT . Perkebunan Nusantara VIII Rancabali. Jurnal Tugas Akhir
+                    | Fakultas Rekayasa Industri, 2(1), 1–8.
+               Pneumatik, H. (n.d.). i | Page ii | P a g e.
+
+               Sarawak, K. (n.d.). SISTEM PNEUMATIK ( PNUEMATIC SYSTEM ).
+               Suhartanta. (2021). Sistem pneumatik dan hidrolik.
+               Suparyanto  dan  Rosad  (2015.  (2020).  済無No  Title  No  Title  No  Title.  In
+                    Suparyanto dan Rosad (2015 (Vol. 5, Issue 3).
+
+
+
+
+
+
+
+                                           101]]></page><page Index="109"><![CDATA[Rudiath,  lahir  di  Bone  30  Oktober  1998. Telah
+                                menyelesaikan  pendidikan  terakhir  di  SMA
+
+                                Negeri 12 Makassar. Saat ini sedang menempuh
+                                pendidikan  di  jurusan  Teknologi  Pendidikan
+                                Universitas Negeri Makassar angkatan 2018
+
+
+                                Dr. Arnidah, S.Pd., M.Si. saat ini Beliau Dosen di
+                                Program  Studi  Teknologi  Pendidikan  dengan
+                                tugas tambahan sebagai Kepala Pusat Pelayanan
+
+                                Kurikulum,  Pusat  Sumber  Belajar,  (PBS),  Media
+                                dan  Evaluasi  Pembelajaran  LP2MP  Universitas
+                                Negeri Makassar
+
+
+
+
+                                Dr.  Abdul  Hakim,  S.Pd.,  M.Si.,  saat  ini  Beliau
+                                merupakan  Dosen  serta  Ketua  Jurusan  di
+                                Teknologi Pendidikan Fakultas Ilmu Pendidikan
+                                Universitas Negeri Makassar S1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           102]]></page><page Index="110"><![CDATA[Mobile Mode         Dekstop Mode         Keterangan
+
+                                                             Thumbnails :
+                                                            Berfungsi untuk
+                                                             menampilkan
+                                                           gambar kecil dari
+                                                           halaman buku dan
+                                                            berisi hyperlink
+
+
+                                                           Table of Content :
+                                                          Daftar Isi yang telah
+                                                             hyperlink pada
+                                                          halaman yang akan
+                                                                di tuju
+
+
+                                                             Sound : Untuk
+                                                            mengaktifkan /
+                                                            menonaktifkan
+
+                                                              suara buku
+
+
+                                                            Auto Flip : Agar
+                                                              buku digital
+                                                              berpindah
+                                                              kehalaman
+                                                           selanjutnya secara
+                                                               otomatis
+
+
+                                                          Switch Languange :
+                                                           Untuk mengubah
+                                                            setelan Bahasa
+                                                                 buku
+
+
+
+
+
+
+
+
+                                           103]]></page><page Index="111"><![CDATA[Help : Berisi
+                                                          informasi tambahan
+                                                            mengenai buku
+
+
+                                                           Page Information :
+                                                            Berisi informasi
+                                                           halaman beserta
+                                                            tombol untuk ke
+                                                               halaman
+                                                          sebelumnya atau ke
+                                                               halaman
+                                                              selanjutnya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           104]]></page><page Index="112"><![CDATA[103]]></page></pages></Search>
